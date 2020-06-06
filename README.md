@@ -2,6 +2,7 @@
 
 A simple Flashcard Game written in Python to answer this question: <https://stackoverflow.com/questions/62147592/save-inputs-as-dictionary-values-forever>
 
+## Example Game
 
 ```
 $ python3 flashcard_game.py 
@@ -43,6 +44,8 @@ Saving words...
 Words saved!
 ```
 
+## Data Format
+
 ```
 $ cat saved_words.json 
 {
@@ -53,3 +56,7 @@ $ cat saved_words.json
     "stochastic": "random"
 }
 ```
+
+## Acknowledgements
+
+Inspired by [Simon's](https://stackoverflow.com/users/13663897/simon) Stack Overflow [question](https://stackoverflow.com/questions/62147592/save-inputs-as-dictionary-values-forever).
