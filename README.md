@@ -60,3 +60,7 @@ $ cat saved_words.json
 ## Acknowledgements
 
 Inspired by [Simon's](https://stackoverflow.com/users/13663897/simon) Stack Overflow [question](https://stackoverflow.com/questions/62147592/save-inputs-as-dictionary-values-forever).
+
+## Questions? Wanna chat?
+
+Send an email to `andrew@simmons.ai`, and I'll try to help!
